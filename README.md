@@ -6,3 +6,6 @@ I think it is good to know that ...
 
 ## Feature Engineering
 [Introduction](https://www.ibm.com/think/topics/feature-engineering)
+
+## Model Evaluation
+<img width="1472" height="1203" alt="confusion_matrix_more" src="https://github.com/user-attachments/assets/cf6cc44c-b9cc-4b5d-8a6b-60db3c5c6bb9" />
